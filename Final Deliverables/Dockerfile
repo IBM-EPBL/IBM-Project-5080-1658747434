@@ -1,5 +1,5 @@
   FROM python:3.11.0
-  LABEL maintainer="Mouli Sankar, moulisankar2002@outlook.com"
+  LABEL maintainer="KUMUTHAN, calebkumu@gmail.com"
   RUN apt-get update
   RUN mkdir /app
   WORKDIR /app
